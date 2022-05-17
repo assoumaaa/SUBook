@@ -1,0 +1,8 @@
+C:\Users\Assouma\Documents\Visual Studio 2015\Projects\clientProject\clientProject\bin\Debug\clientProject.exe.config
+C:\Users\Assouma\Documents\Visual Studio 2015\Projects\clientProject\clientProject\bin\Debug\clientProject.exe
+C:\Users\Assouma\Documents\Visual Studio 2015\Projects\clientProject\clientProject\bin\Debug\clientProject.pdb
+C:\Users\Assouma\Documents\Visual Studio 2015\Projects\clientProject\clientProject\obj\Debug\clientProject.Form1.resources
+C:\Users\Assouma\Documents\Visual Studio 2015\Projects\clientProject\clientProject\obj\Debug\clientProject.Properties.Resources.resources
+C:\Users\Assouma\Documents\Visual Studio 2015\Projects\clientProject\clientProject\obj\Debug\clientProject.csproj.GenerateResource.Cache
+C:\Users\Assouma\Documents\Visual Studio 2015\Projects\clientProject\clientProject\obj\Debug\clientProject.exe
+C:\Users\Assouma\Documents\Visual Studio 2015\Projects\clientProject\clientProject\obj\Debug\clientProject.pdb
